@@ -1,0 +1,94 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 30/11/2013 09:15:11
+
+BeginCmp
+TimeStamp = /5299ABC3;
+Reference = C1;
+ValeurCmp = 1nf;
+IdModule  = C1_wide_lg_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /5299AB96;
+Reference = C2;
+ValeurCmp = 10nf;
+IdModule  = C1_wide_lg_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /5299ABB4;
+Reference = C3;
+ValeurCmp = 1nf;
+IdModule  = C1_wide_lg_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /5299ABD2;
+Reference = C4;
+ValeurCmp = 100nf;
+IdModule  = C1_wide_lg_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /5299ABE1;
+Reference = C5;
+ValeurCmp = 10uf;
+IdModule  = C1V7_lg_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /5299AC59;
+Reference = C6;
+ValeurCmp = 1uf;
+IdModule  = C1V7_lg_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /5299AB87;
+Reference = K1;
+ValeurCmp = DATA;
+IdModule  = SIL-3_lg_pad_1mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5299AB78;
+Reference = P1;
+ValeurCmp = Thermocouple;
+IdModule  = SIL-2_screw_terminal;
+EndCmp
+
+BeginCmp
+TimeStamp = /5299AC0E;
+Reference = R1;
+ValeurCmp = 1M;
+IdModule  = R3-LARGE_PADS_0_8_hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /5299ABF0;
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = R3-LARGE_PADS_0_8_hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /5299ABFF;
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = R3-LARGE_PADS_0_8_hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /5299AC4A;
+Reference = R4;
+ValeurCmp = 100k;
+IdModule  = R3-LARGE_PADS_0_8_hole;
+EndCmp
+
+BeginCmp
+TimeStamp = /5299AB69;
+Reference = U1;
+ValeurCmp = AD8495;
+IdModule  = MSOP_8;
+EndCmp
+
+EndListe
